@@ -12,6 +12,7 @@ Chuyển video đa ngôn ngữ sang ngôn ngữ mong muốn, tự động dịch
 
 ## TÍNH NĂNG NỔI BẬT
 
+* **Dịch phim chỉ bằng một cú click chuột:** Bấm "Xử lý video" là tool tự làm hết từ nhận dạng, dịch, lồng tiếng đến căn thời gian. Hoặc chuột phải vào file video, chọn Gửi đến → Lồng tiếng CapCut: tool tự xử lý và mở sẵn dự án trong CapCut.
 * **Dịch đa ngôn ngữ:** Hỗ trợ tiếng Trung, Anh, Nhật, Hàn, Việt...
 * **Đồng bộ thời gian thông minh:** Tự tối ưu câu dịch, tìm cách diễn đạt ngắn hơn khi câu dịch quá dài, hạn chế lệch tiếng.
 * **Tự nhận diện nhân vật và chọn giọng:** Tool tự nhận ra các nhân vật trong video và gán giọng nam/nữ phù hợp cho từng người. Bạn vẫn đổi giọng được cho từng nhân vật hoặc từng câu.
