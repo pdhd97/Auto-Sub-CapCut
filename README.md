@@ -2,8 +2,6 @@
 
 Chuyển video đa ngôn ngữ sang ngôn ngữ mong muốn, tự động dịch, lồng tiếng và đồng bộ thời gian. Tất cả chỉ với vài thao tác đơn giản, không cần mất hàng giờ chỉnh sửa thủ công.
 
-**Tải về:** [bản mới nhất](https://github.com/pdhd97/Auto-Sub-CapCut/releases/latest), chọn file `Auto-Sub-Capcut-Setup-...exe` rồi chạy.
-
 ![Giao diện Auto Sub CapCut](docs/giao-dien-tool.webp)
 
 *Giao diện Auto Sub CapCut: cài đặt bên trái, xem trước video đã lồng tiếng ở giữa, danh sách phụ đề bên phải. Mỗi câu có phụ đề gốc, bản dịch, nhân vật và giọng đọc riêng.*
@@ -33,4 +31,4 @@ Không cần biết nhiều về dựng phim. Chỉ cần thêm video, chọn ng
 * Gói Pro: **190.000đ / 30 ngày**.
 * Cần API Key Gemini cho tính năng dịch AI (có video hướng dẫn).
 
-Hỗ trợ Zalo: **0937659552**
+**Cài đặt:** tải `Auto-Sub-Capcut-Setup-...exe` ở [bản mới nhất](https://github.com/pdhd97/Auto-Sub-CapCut/releases/latest) rồi chạy.
